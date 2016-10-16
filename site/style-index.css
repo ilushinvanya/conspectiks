@@ -1,0 +1,219 @@
+/* Yahoo! CSS Reset */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style: normal;
+	font-weight: normal;
+}
+ol, ul {
+	list-style: none;
+}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before, q:after {
+	content: '';
+}
+abbr, acronym {
+	border: 0;
+}
+/* End of Yahoo! CSS Reset */
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+html {
+	height: 100%;
+}
+body {
+	/*font: 12px/18px 'Myriad Pro',Arial, sans-serif;*/
+	width: 100%;
+	height: 700px;
+}
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.hidden
+{
+    display: none;
+}
+.wrapper
+{
+	width: 800px;
+	margin: 0 auto;
+	height: 700px;
+    /*overflow: scroll;*/
+    /*overflow-x: hidden;*/
+}
+
+.wrapper
+{
+    position: relative;
+}
+.header
+{
+    background: url(../images/image.jpg) no-repeat;
+    background-position: center top;
+    position: relative;
+    overflow: hidden;
+}
+.black
+{
+    background: rgba(46, 64, 121, 0.6);
+    overflow: hidden;
+    height: 367px;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    overflow: hidden;
+    z-index: 1;
+}
+.logo
+{
+	text-align: center;
+	margin-top: 140px;
+}
+.logo img
+{
+	width: 188px;
+}
+.divider
+{
+	height: 1px;
+	background: #F7F0A2;
+	width: 135px;
+	margin: 27px auto;
+}
+.main-title
+{
+	text-align: center;
+	margin: 20px auto 72px;
+	width: 75%;
+	color: white;
+}
+.main-title,
+.divider,
+.logo
+{
+    position: relative;
+    z-index: 2;
+}
+.main-title p
+{}
+
+.mainform
+{
+	margin: 36px auto;
+	width: 312px;
+	margin-left: 157px;
+}
+.mainform label
+{
+	display: block;
+	margin-bottom: 15px;
+}
+.mainform label p
+{
+	display: inline-block;
+	color: white;
+	width: 62px;
+	text-align: right;
+	padding-right: 5px;
+}
+.mainform input[type='text']
+{
+	width: 227px;
+	height: 24px;
+	border-radius: 3px;
+	border: 0;
+	outline: none;
+	padding:0 5px;
+}
+.mainform .submit
+{
+	margin: 20px auto;
+	width: 112px;
+	height: 32px;
+	display: block;
+	/*background: url(../images/go-btn-n.png) no-repeat;*/
+	border: 0;
+	background-size: cover;
+	margin-left: 132px;
+    outline: none;
+
+}
+.mainform .submit:hover
+{
+	background-size: cover;
+}
+
+.form-horizontal .control-label
+{
+    color: white;
+}
+.form-horizontal .input-group
+{
+    margin-bottom: 28px;
+}
+.form-horizontal .input-group-addon
+{
+    /*width: 20%;*/
+}
+.fa-building-o
+{
+    width: 16px;
+}
+form.login-form
+{
+    margin: 0 auto;
+    /*border: 1px #F00 solid;*/
+    width: 360px;
+}
+
+.controls input
+{
+    height: 27px;
+}
+
+.wrap_kurs
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.msg-warn
+{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+.avatar
+{
+    text-align: center;
+}
+.loginza_block
+{
+    margin: 20px 0;
+}
