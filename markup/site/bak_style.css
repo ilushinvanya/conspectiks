@@ -75,7 +75,7 @@ body {
 }
 .wrapper
 {
-    background: url(../images/image.jpg) no-repeat;
+    background: url(../markup/images/image.jpg) no-repeat;
     background-position: center top;
     /*background-size: cover;*/
 }
@@ -146,7 +146,7 @@ body {
 	width: 112px;
 	height: 32px;
 	display: block;
-	background: url(../images/go-btn-n.png) no-repeat;
+	background: url(../markup/images/go-btn-n.png) no-repeat;
 	border: 0;
 	background-size: cover;
 	margin-left: 132px;
@@ -155,7 +155,7 @@ body {
 }
 .mainform .submit:hover
 {
-	background: url(../images/go-btn-h.png) no-repeat;
+	background: url(../markup/images/go-btn-h.png) no-repeat;
 	background-size: cover;
 }
 
@@ -409,7 +409,7 @@ position: relative;
 }
 .wk_icon_icon
 {
-background: url(../images/wk_icon.png) no-repeat center center;
+background: url(../markup/images/wk_icon.png) no-repeat center center;
 width: 55px;
 height: 47px;
 }
@@ -524,7 +524,7 @@ padding: 15px 9px;
 }
 .wk_dis_icon
 {
-	background: url(../images/dislike.png) no-repeat;
+	background: url(../markup/images/dislike.png) no-repeat;
 	width: 15px;
 	height: 16px;
 	display: inline-block;	
@@ -546,7 +546,7 @@ padding: 15px 9px;
 }
 .wk_lk_icon
 {
-	background: url(../images/like.png) no-repeat;
+	background: url(../markup/images/like.png) no-repeat;
 	width: 15px;
 	height: 16px;
 	display: inline-block;
@@ -557,7 +557,7 @@ padding: 15px 9px;
 }
 .wk_download
 {
-	background: url(../images/wk_cloud.png) no-repeat 6px center, #F4F1F2;
+	background: url(../markup/images/wk_cloud.png) no-repeat 6px center, #F4F1F2;
 	text-align: center;
 	padding: 1px;
 	border-radius: 4px;
@@ -622,7 +622,7 @@ font-size: 16px;
 .win_descr_icon
 {
 	display: inline-block;
-	background: url(../images/win_icon.png) no-repeat;
+	background: url(../markup/images/win_icon.png) no-repeat;
 	width: 59px;
 	height: 79px;
 }
@@ -783,7 +783,7 @@ box-sizing: border-box;
 {
 	width: 26px;
 	height: 100%;
-	background: url(../images/paper_clip.png) no-repeat center center;
+	background: url(../markup/images/paper_clip.png) no-repeat center center;
 }
 .comm_load_name
 {

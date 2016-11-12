@@ -1,0 +1,196 @@
+@import "https://fonts.googleapis.com/css?family=Roboto&subset=cyrillic-ext";
+body {
+  background: #edeef0;
+  font-family: 'Roboto', sans-serif; }
+
+.pullright {
+  float: right; }
+
+.wrapper {
+  max-width: 1800px;
+  margin: 0 auto; }
+
+.main_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px; }
+  .main_wrap aside {
+    width: 22%; }
+  .main_wrap section {
+    width: 78%; }
+
+.work_wrap,
+.teacher_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px; }
+  .work_wrap aside,
+  .teacher_wrap aside {
+    width: 40%; }
+  .work_wrap section,
+  .teacher_wrap section {
+    width: 60%; }
+
+header .wrapper #navbar {
+  background: white;
+  padding-left: 0;
+  border-radius: 2px;
+  box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+  margin-left: 10px;
+  margin-right: 10px; }
+header .wrapper .navbar-header {
+  background: #8BC34A; }
+  header .wrapper .navbar-header a {
+    color: white; }
+
+.block {
+  border-radius: 2px;
+  box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+  background: #fff;
+  padding: 15px;
+  position: relative;
+  margin: 10px; }
+
+h2 {
+  font-size: 19px;
+  line-height: 25px;
+  color: #2b2f33;
+  margin: 0; }
+
+.title {
+  margin-bottom: 0;
+  display: flex;
+  align-items: flex-end; }
+  .title .pullright {
+    float: none;
+    margin-left: auto; }
+
+thead th, tfoot th {
+  /*background: blue;*/ }
+
+.profile_block {
+  display: flex;
+  align-items: flex-end; }
+  .profile_block .block {
+    width: auto; }
+  .profile_block .ava_wrap {
+    width: 200px; }
+    .profile_block .ava_wrap img {
+      width: 100%; }
+  .profile_block h2 span {
+    font-size: 14px; }
+
+.table_text p {
+  margin: 0;
+  display: flex; }
+  .table_text p span:first-child {
+    width: 137px;
+    color: #828282; }
+  .table_text p a {
+    color: #8BC34A; }
+  .table_text p .descr_work {
+    display: inline-block;
+    max-width: 500px; }
+
+.user_list {
+  display: flex;
+  flex-wrap: wrap; }
+
+th {
+  background: rgba(139, 195, 74, 0.19); }
+
+.media_list {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap; }
+  .media_list a {
+    display: block;
+    width: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-left: 0; }
+    .media_list a img {
+      width: 100%; }
+
+.comment_item {
+  min-height: 100px;
+  margin-bottom: 40px;
+  display: flex;
+  align-items: flex-start; }
+  .comment_item.autor {
+    flex-direction: row-reverse; }
+    .comment_item.autor .content {
+      background: rgba(139, 195, 74, 0.27); }
+  .comment_item .content {
+    border: 1px #dfdfdf solid;
+    display: inline-block;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 1px 0 0 #a7a6a6;
+    width: 80%; }
+    .comment_item .content p {
+      margin: 0; }
+
+.user {
+  width: 70px;
+  overflow: hidden;
+  padding: 6px 0 5px;
+  text-align: center; }
+  .user .ava {
+    display: block;
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 10px; }
+    .user .ava img {
+      width: 100%; }
+  .user p {
+    text-align: center;
+    line-height: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 13px; }
+
+hr {
+  border-bottom: 1px solid #e7e8ec;
+  border-top: 0;
+  margin: 20px 0; }
+
+.profile_block hr {
+  margin: 10px 0; }
+
+#table {
+  border-collapse: collapse !important; }
+  #table td, #table th {
+    border: 0; }
+
+.likes_wrap {
+  position: relative; }
+  .likes_wrap .total {
+    padding: 0;
+    cursor: pointer; }
+    .likes_wrap .total:before {
+      background-image: url(https://vk.com/images/im_emoji.png?9);
+      background-position: 0px -527px;
+      background-repeat: no-repeat;
+      content: '';
+      width: 19px;
+      display: inline-block;
+      height: 18px;
+      vertical-align: sub; }
+  .likes_wrap .people {
+    position: absolute;
+    display: none;
+    right: 0;
+    background: white;
+    padding: 0 10px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.51);
+    border-radius: 3px;
+    max-width: 400px; }
+  .likes_wrap:hover .people {
+    display: flex; }
+
+/*# sourceMappingURL=style.css.map */

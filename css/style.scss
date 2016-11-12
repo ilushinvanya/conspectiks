@@ -1,0 +1,269 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto&subset=cyrillic-ext';
+
+body {
+  background: #edeef0;
+  font-family: 'Roboto', sans-serif;
+}
+.pullright {
+  float: right;
+}
+.wrap_table {
+}
+
+.wrapper {
+  max-width: 1800px;
+  margin: 0 auto;
+}
+.main_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+  aside {
+    width: 22%;
+  }
+  section {
+    width: 78%;
+  }
+}
+
+.work_wrap,
+.teacher_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+  aside {
+    width: 40%;
+  }
+  section {
+    width: 60%;
+  }
+}
+
+header {
+
+  .wrapper {
+    #navbar {
+      background: white;
+      padding-left: 0;
+      border-radius: 2px;
+      box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+    .navbar-header {
+      background: #8BC34A;
+      a {
+        color: white;
+      }
+    }
+  }
+}
+
+.block {
+  border-radius: 2px;
+  box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+  background: #fff;
+  padding: 15px;
+  position: relative;
+  margin: 10px;
+}
+
+h2 {
+  font-size: 19px;
+  line-height: 25px;
+  color: #2b2f33;
+  margin: 0;
+}
+
+.title {
+  margin-bottom: 0;
+  display: flex;
+  align-items: flex-end;
+  .pullright {
+    float: none;
+    margin-left: auto;
+  }
+}
+
+thead th, tfoot th {
+  /*background: blue;*/
+}
+
+.profile_block {
+  display: flex;
+  align-items: flex-end;
+  .block {
+    width: auto;
+  }
+
+  .ava_wrap {
+    width: 200px;
+    img {
+      width: 100%;
+    }
+  }
+  h2 span {
+    font-size: 14px;
+  }
+}
+
+.table_text {
+  p {
+    margin: 0;
+    //margin-bottom: 5px;
+    //font-size: 13px;
+    display: flex;
+    span {
+      &:first-child {
+        width: 137px;
+        color: #828282;
+      }
+      &:last-child {
+      }
+    }
+    a {
+      color: #8BC34A;
+    }
+    .descr_work {
+      display: inline-block;
+      max-width: 500px;
+    }
+  }
+
+}
+
+.wrap_table {
+  //width: 100%;
+}
+
+.user_list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+th {
+  background: rgba(139, 195, 74, 0.19);
+}
+
+.media_list {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  a {
+    display: block;
+    width: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-left: 0;
+    img {
+      width: 100%;
+    }
+
+  }
+}
+
+.comment_item {
+  min-height: 100px;
+  margin-bottom: 40px;
+  display: flex;
+  align-items: flex-start;
+  &.autor {
+    //justify-content: flex-end;
+    flex-direction: row-reverse;
+    .content {
+      background: rgba(139, 195, 74, 0.27);
+    }
+  }
+  .content {
+    border: 1px #dfdfdf solid;
+    display: inline-block;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 1px 0 0 #a7a6a6;
+    width: 80%;
+    p {
+      margin: 0;
+    }
+  }
+
+
+}
+.user {
+  width: 70px;
+  overflow: hidden;
+  padding: 6px 0 5px;
+  text-align: center;
+  .ava {
+    display: block;
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 10px;
+    img {
+      width: 100%;
+    }
+  }
+  p {
+    text-align: center;
+    line-height: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 13px;
+  }
+}
+hr {
+  border-bottom: 1px solid #e7e8ec;
+  border-top: 0;
+  margin: 20px 0;
+}
+
+.profile_block {
+  hr {
+    margin: 10px 0;
+  }
+}
+
+#table {
+  border-collapse: collapse !important;
+  td, th {
+    border: 0;
+  }
+}
+
+
+.likes_wrap {
+  position: relative;
+  .total {
+    padding: 0;
+    cursor: pointer;
+    &:before {
+      background-image: url(https://vk.com/images/im_emoji.png?9);
+      background-position: 0px -527px;
+
+      background-repeat: no-repeat;
+      content: '';
+      width: 19px;
+      display: inline-block;
+      height: 18px;
+      vertical-align: sub;
+    }
+  }
+  .people {
+    position: absolute;
+    display: none;
+    right: 0;
+    background: white;
+    padding: 0 10px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.51);
+    border-radius: 3px;
+    max-width: 400px;
+  }
+  &:hover {
+    .people {
+      display: flex;
+    }
+  }
+}
