@@ -69,7 +69,7 @@ function funbg(){
 }
 
 $(document).ready(function(){
-	$('body').attr('style', 'background-image: url( '+funbg()+');');
+	//$('body').attr('style', 'background-image: url( '+funbg()+');');
 
 	$maintable = $('#table').DataTable({
 		"language": {

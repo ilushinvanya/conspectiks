@@ -74,7 +74,7 @@ body {
 }
 .header
 {
-    background: url(../markup/images/image.jpg) no-repeat;
+    background: url(../images/image.jpg) no-repeat;
     background-position: center top;
     position: relative;
     overflow: hidden;

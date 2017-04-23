@@ -6,7 +6,7 @@
     <title>Дай списать</title>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=1000">
 
     <link rel="icon" type="image/png" href="../img/favicon.png" />
     <link rel="apple-touch-icon" href="img/apple-touch-favicon.png"/>

@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd480aa-ccda-43bc-9169-03e6f843c288" name="Default" comment="" />
+    <list default="true" id="4bd480aa-ccda-43bc-9169-03e6f843c288" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start/site/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svet/js/worker.js" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\landing.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\._glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._close_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._dislike.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._go-btn-h.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._go-btn-n.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._like.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._logo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._logo_conspekt.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._paper_clip.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._photo-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._toolbar-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._win_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._wk_cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\._wk_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._fancybox_buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\._fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._jquery.fancybox-thumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._jquery.fileupload-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._jquery.fileupload.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._selectize.bootstrap3.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._selectize.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\._site.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\webwork\conspectiks.ru\markup\site\font-awesome.min.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="$PROJECT_DIR$/img/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/function.js" afterPath="$PROJECT_DIR$/js/function.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/head.php" afterPath="$PROJECT_DIR$/php/head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\consp.html" afterPath="$PROJECT_DIR$/start/index.html" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/start/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/start/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/start/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/start/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/start/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/start/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/start/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/start/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/start/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/start/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\close_icon.png" afterPath="$PROJECT_DIR$/start/images/close_icon.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\dislike.png" afterPath="$PROJECT_DIR$/start/images/dislike.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\blank.gif" afterPath="$PROJECT_DIR$/start/images/fancy/blank.gif" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\fancybox_buttons.png" afterPath="$PROJECT_DIR$/start/images/fancy/fancybox_buttons.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\fancybox_loading.gif" afterPath="$PROJECT_DIR$/start/images/fancy/fancybox_loading.gif" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/start/images/fancy/fancybox_loading@2x.gif" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\fancybox_overlay.png" afterPath="$PROJECT_DIR$/start/images/fancy/fancybox_overlay.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\fancybox_sprite.png" afterPath="$PROJECT_DIR$/start/images/fancy/fancybox_sprite.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\fancy\fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/start/images/fancy/fancybox_sprite@2x.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\go-btn-h.png" afterPath="$PROJECT_DIR$/start/images/go-btn-h.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\go-btn-n.png" afterPath="$PROJECT_DIR$/start/images/go-btn-n.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\image.jpg" afterPath="$PROJECT_DIR$/start/images/image.jpg" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\like.png" afterPath="$PROJECT_DIR$/start/images/like.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\logo.png" afterPath="$PROJECT_DIR$/start/images/logo.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\logo_conspekt.png" afterPath="$PROJECT_DIR$/start/images/logo_conspekt.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\paper_clip.png" afterPath="$PROJECT_DIR$/start/images/paper_clip.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\photo-1.jpg" afterPath="$PROJECT_DIR$/start/images/photo-1.jpg" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\toolbar-logo.jpg" afterPath="$PROJECT_DIR$/start/images/toolbar-logo.jpg" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\win_icon.png" afterPath="$PROJECT_DIR$/start/images/win_icon.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\wk_cloud.png" afterPath="$PROJECT_DIR$/start/images/wk_cloud.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\images\wk_icon.png" afterPath="$PROJECT_DIR$/start/images/wk_icon.png" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\js\1111style.css" afterPath="$PROJECT_DIR$/start/js/1111style.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\js\jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/start/js/jquery-1.10.1.min.js" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\js\script-index.js" afterPath="$PROJECT_DIR$/start/js/script-index.js" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\js\selectize.min.js" afterPath="$PROJECT_DIR$/start/js/selectize.min.js" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\bak_bootstrap.css" afterPath="$PROJECT_DIR$/start/site/bak_bootstrap.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\bak_style.css" afterPath="$PROJECT_DIR$/start/site/bak_style.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\bootstrap.min.css" afterPath="$PROJECT_DIR$/start/site/bootstrap.min.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\jquery.fancybox-thumbs.css" afterPath="$PROJECT_DIR$/start/site/jquery.fancybox-thumbs.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\jquery.fancybox.css" afterPath="$PROJECT_DIR$/start/site/jquery.fancybox.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\jquery.fileupload-ui.css" afterPath="$PROJECT_DIR$/start/site/jquery.fileupload-ui.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\jquery.fileupload.css" afterPath="$PROJECT_DIR$/start/site/jquery.fileupload.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\selectize.bootstrap3.css" afterPath="$PROJECT_DIR$/start/site/selectize.bootstrap3.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\selectize.css" afterPath="$PROJECT_DIR$/start/site/selectize.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\site.css" afterPath="$PROJECT_DIR$/start/site/site.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\site.min.css" afterPath="$PROJECT_DIR$/start/site/site.min.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\style-index.css" afterPath="$PROJECT_DIR$/start/site/style-index.css" />
+      <change type="MOVED" beforePath="F:\webwork\conspectiks.ru\markup\site\style.css" afterPath="$PROJECT_DIR$/start/site/style.css" />
+    </list>
     <ignored path="conspectiks.ru.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,7 +121,96 @@
     <favorites_list name="conspectiks.ru" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.730769">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.0">
+              <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/start/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.346153">
+              <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+              <folding>
+                <element signature="n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06640625">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geo/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!block;n#error#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predmet_list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/predmet_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.846153">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+              <folding>
+                <marker date="1476268848000" expanded="true" signature="652:1150" placeholder="SELECT predm..predmet..." />
+                <marker date="1476268848000" expanded="true" signature="1354:1408" placeholder="SELECT COUNT..work..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geo/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +220,20 @@
       <list>
         <option value="$PROJECT_DIR$/consp.html" />
         <option value="$PROJECT_DIR$/markup/consp.html" />
+        <option value="$PROJECT_DIR$/markup/site/style-index.css" />
+        <option value="$PROJECT_DIR$/svet/css/style.css" />
+        <option value="$PROJECT_DIR$/markup/site/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/markup/index.html" />
+        <option value="$PROJECT_DIR$/svet/js/worker.js" />
+        <option value="$PROJECT_DIR$/svet/css/style.scss" />
+        <option value="$PROJECT_DIR$/svet/index.html" />
+        <option value="$PROJECT_DIR$/svet/js/script.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/geo/style.scss" />
+        <option value="$PROJECT_DIR$/geo/index.html" />
+        <option value="$PROJECT_DIR$/geo/script.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/start/index.html" />
       </list>
     </option>
   </component>
@@ -46,10 +249,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1284" />
-    <option name="height" value="1000" />
+    <option name="x" value="1272" />
+    <option name="y" value="-11" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -74,7 +277,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -83,9 +285,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conspectiks.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conspectiks.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conspectiks.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conspectiks.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conspectiks.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conspectiks.ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="start" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,6 +340,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../soslan" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -147,16 +389,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1284" height="1000" extended-state="0" />
-    <editor active="false" />
+    <frame x="1272" y="-11" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36198738" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2429022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13187702" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23280802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32751676" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6105991" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -164,8 +407,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -184,28 +426,437 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/svet/js/script.js</url>
+          <line>64</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/markup/consp.html">
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markup/consp.html">
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.020310633">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markup/site/site.css">
+    <entry file="file://$PROJECT_DIR$/svet/js/worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/site/style-index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/images/image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/predmet_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/work_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/site/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/work_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/site/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/site/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12142857">
+          <caret line="3" column="317" selection-start-line="3" selection-start-column="317" selection-end-line="3" selection-end-column="317" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/site/style-index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9952381">
+          <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/images/image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/images/photo-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060642093">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2247596">
+          <caret line="183" column="13" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+          <folding>
+            <element signature="e#471#552#0" expanded="false" />
+            <element signature="e#615#640#0" expanded="false" />
+            <element signature="e#703#853#0" expanded="false" />
+            <element signature="n#!!block;n#playPause#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geo/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geo/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geo/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!block;n#error#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/predmet_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.846153">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding>
+            <marker date="1476268848000" expanded="true" signature="652:1150" placeholder="SELECT predm..predmet..." />
+            <marker date="1476268848000" expanded="true" signature="1354:1408" placeholder="SELECT COUNT..work..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.0">
+          <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.346153">
+          <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+          <folding>
+            <element signature="n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06640625">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
