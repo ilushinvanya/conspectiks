@@ -3,80 +3,84 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <title>
-        213
-    </title>
-    <link rel="search" type="application/opensearchdescription+xml" href="/xsl/onlineSearch/description.xml"
-          title="Search on UMI.CMS"/>
-    <link rel="stylesheet" href="site/site.min.css"/>
+    <title>Конспектики</title>
+
+
     <link rel="stylesheet" href="site/font-awesome.min.css"/>
     <link rel="stylesheet" href="site/selectize.css"/>
     <link rel="stylesheet" href="site/selectize.bootstrap3.css"/>
-    <link rel="stylesheet" href="site/style.css"/>
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic"
-          rel="stylesheet" type="text/css"/>
-    <link type="text/css" rel="stylesheet" href="site/style-index.css"/>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" type="text/css"/>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
 
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?145"></script>
+    <script type="text/javascript">
+        VK.init({apiId: 4592165});
+    </script>
 </head>
 <body>
 <div class="wrapper">
 
     <div class="header">
 
-
         <div class="black"></div>
-        <div class="logo">
-            <img src="images/logo.png"/>
+        <div class="box">
+            <div class="logo">
+                <img src="images/logo.png"/>
+            </div>
+            <div class="divider"></div>
+            <div class="title">
+                <p>Суперкармабустер: скачивай лабы друга и заливай свои.<br/> Помоги всем, что наработал сам и тебе
+                    прилетит юкка в карму. Дерзай!</p>
+            </div>
         </div>
-        <div class="divider"></div>
-        <div class="main-title">
-            <p>
-                Суперкармабустер: скачивай лабы друга и заливай свои.<br/> Помоги всем, что наработал сам и тебе
-                прилетит юкка в карму. Дерзай!
-            </p>
+
+        <div class="avatar">
+            <div id="vk_auth"></div>
+            <script type="text/javascript">
+                VK.Widgets.Auth("vk_auth", {onAuth: function(data) {
+                    alert('user '+data['uid']+' authorized');
+                    console.log(data);
+
+                } });
+            </script>
         </div>
-    </div>
-    <div class="avatar">
-        <p>Ваня илюшин</p>
+
     </div>
 
 
-    <form class="form-horizontal login-form" method="post" action="/?univer=65">
+
+
+
+    <form class="form-horizontal login-form" method="post" action="/php/route.php">
+        <h2>Сделайте выбор:</h2>
         <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="fa fa-building-o"></i>
-                    </span>
+            <span class="input-group-addon">
+                <i class="fa fa-building-o"></i>
+            </span>
             <select name="city_id" id="city"
                     class="selecter_country"
                     placeholder="Город в России">
             </select>
         </div>
-
-
         <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="fa fa-university"></i>
-                    </span>
+            <span class="input-group-addon">
+                <i class="fa fa-university"></i>
+            </span>
             <select name="university_id" id="univers"
                     class="selecter_city"
                     placeholder="Университет в вашем городе">
             </select>
         </div>
-
-
         <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="fa fa-leanpub"></i>
-                    </span>
+            <span class="input-group-addon">
+                <i class="fa fa-leanpub"></i>
+            </span>
             <select name="faculty_id" id="fakcs"
                     class="selecter_univers"
                     placeholder="Факультет на котором учитесь">
                 <!--<option value=""></option>-->
             </select>
         </div>
-
-
         <div class="control-group wrap_kurs">
             <button class="btn btn-success" name="year" type="submit" value="1">1</button>
             <button class="btn btn-danger" name="year" type="submit" value="2">2</button>
@@ -85,20 +89,15 @@
             <button class="btn btn-primary" name="year" type="submit" value="5">5</button>
             <button class="btn btn-default" name="year" type="submit" value="6">6</button>
         </div>
-
-        <!--<div class="control-group">-->
-        <!--<div class="controls">-->
-        <!--<button type="submit" class="btn">Выбрал</button>-->
-        <!--<a href="http://conspectiks.ru.swtest.ru/sanktpeterburg/bonchbruevicha/rs_rv_tv/3/" class="btn">Выбрал</a>-->
-        <!--</div>-->
-        <!--</div>-->
     </form>
 
 
 </div>
 <script src="js/jquery-1.10.1.min.js" type="text/javascript"></script>
-<script type = "text/javascript" src = "js/selectize.min.js"></script>
+<script type="text/javascript" src="js/selectize.min.js"></script>
 <script src="js/script-index.js" type="text/javascript"></script>
+
+
 </body>
 
 </html>
